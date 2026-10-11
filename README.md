@@ -9,7 +9,7 @@ Program ini membandingkan 5 metode berbeda untuk menyelesaikan matriks SPL yang 
 2. **Metode Gauss-Jordan**
 3. **Dekomposisi LU (Metode Doolittle)**
 4. **Metode Jacobi** (Iteratif dengan batas toleransi dan maksimal iterasi)
-5. **Metode Gauss-Seidel** (Iteratif dengan pembaruan nilai langsung)
+5. **Metode Gauss-Seidel** (Iteratif dengan batas toleransi dan maksimal iterasi)
 
 ---
 
